@@ -1,6 +1,6 @@
 # Document AI Chatbot React + FastAPI
 
-## Technology Stack
+## Stacks
 
 * Frontend: React (with TypeScript)
 * Backend: FastAPI (Python)
