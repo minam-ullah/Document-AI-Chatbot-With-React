@@ -62,5 +62,5 @@ The page will reload if you make edits. You will also see any lint errors in the
 * Open [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to access the Swagger UI
 * Open [http://localhost:3000](http://localhost:3000) to access the frontend UI
 
-
+### Note
 1. Handle edge cases when the user has uploads a very large file (>100mb) or a unsupported file type like video/mp3.
