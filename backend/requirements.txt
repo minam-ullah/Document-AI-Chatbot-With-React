@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic-settings
+python-multipart
+openai>=1.0,<2.0
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-classic
+tiktoken
+faiss-cpu
+pypdf
+docx2txt
